@@ -4,6 +4,10 @@
 
 + 本项目为通过微信小程序进行动作的识别，项目选取了徒手侧平举、前后交叉小跳、开合跳、半蹲四个动作，在测试者左手手持手机的情况下，利用微信小程序实时采集手机的六轴数据，并用随机森林模型和波峰检测法，对测试者做出的动作进行实时的识别和计数。
 
++ b站视频链接：https://www.bilibili.com/video/BV1oT4y1L7a8
+
++ 文档链接：https://nbviewer.jupyter.org/gist/Sun-Yize-SDUWH/9bee3f6c4533e768c8ca726084ba7f1e
+
 + 以下说明，为项目文件中各个文件夹的相关说明
 
 ### python project
